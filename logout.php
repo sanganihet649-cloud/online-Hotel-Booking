@@ -1,9 +1,1 @@
-<html>
-  <head>
-    <title>
-      logout
-    </title>
-  </head>
-  <body>
-  </body>
-</html>
+
